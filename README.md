@@ -134,4 +134,6 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 
 <details>
 
+  <summary> • 💡 CREDITS 💞 • </summary>
   
+• [LEGEND](https://github.com/LEGEND-OS)
